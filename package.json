@@ -1,6 +1,6 @@
 {
   "name": "vue2-man-system-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "vue2版本的后台管理系统模版",
   "scripts": {
     "serve": "vue-cli-service serve",
