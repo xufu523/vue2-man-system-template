@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="33px" viewBox="0 0 61 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="99.9995733%" y1="-0.0021486238%" x2="6.51793206%" y2="93.091352%" id="linearGradient-1">
+            <stop stop-color="#A213C9" offset="0%"></stop>
+            <stop stop-color="#662FE5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="G7S-登录和忘记密码" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="验证码登录" transform="translate(-1030.000000, -269.000000)" fill="url(#linearGradient-1)">
+            <g id="-登录输入框" transform="translate(880.000000, 223.000000)">
+                <g id="logo" transform="translate(150.000000, 46.000000)">
+                    <path d="M35.6076032,0 L32.4439074,6.59876562 L49.46847,6.59876562 L36.6530774,33 L45.0784884,33 L61,0 L35.6076032,0 Z M18.384047,0 C9.06973039,0 1.22311817,7.083258 0.105925437,16.4994857 C-0.852678451,24.5784732 4.80197335,31.9178642 12.7354559,32.8940494 C13.3112243,32.9639974 13.8900231,33 14.469832,33 L26.7397597,33 L36.153068,13.6820236 L18.2456605,13.6820236 L15.3223732,19.6924036 L26.1064144,19.6924036 L22.5891766,26.7653751 L15.2708571,26.7653751 C10.5071312,26.7653751 6.64645249,22.8328606 6.64645249,17.9817649 C6.64645249,17.5466475 6.67776621,17.1115302 6.74140377,16.6815561 C7.59394506,10.8871918 12.4819158,6.59876562 18.2355593,6.59876562 L26.2225782,6.59876562 L29.4983974,0 L18.384047,0 Z" id="logo_log"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

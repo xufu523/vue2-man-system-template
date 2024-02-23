@@ -1,0 +1,54 @@
+{
+    "files.eol": "\n",   
+    "extensions.ignoreRecommendations": false,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    // 关闭js文件中的自动引入
+    "javascript.suggest.autoImports": false,
+    // 超过多长自动换行
+    "prettier.printWidth": 110,
+    // 单引号
+    "prettier.singleQuote": true,
+    // 语句末尾添加分号
+    "prettier.semi": true,
+    // useTabs
+    "prettier.useTabs": false,
+    // tabWidth
+    "prettier.tabWidth": 2,
+    // 对象未逗号
+    "prettier.trailingComma": "all",
+    // 唯一箭头函数参数周围包含括号
+    // "prettier.arrowParens": "always",
+    // 关闭vue文件中的自动引入
+    "vetur.completion.autoImport": false,
+    // 关闭vetur对template的检查
+    // "vetur.validation.template": false,
+    "vetur.format.defaultFormatter.html": "none",
+    "vetur.format.defaultFormatterOptions": {
+        "prettier": {
+            "printWidth": 110,
+            "singleQuote": true,
+            "semi": true,
+            "useTabs": false,
+            "tabWidth": 2,
+            "trailingComma": "all"
+        }
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "vue"
+    ],
+    "git.ignoreMissingGitWarning": true,
+    "explorer.confirmDelete": false,
+    "liveServer.settings.port": 0,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}

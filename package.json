@@ -1,0 +1,45 @@
+{
+  "name": "vue2-man-system-template",
+  "version": "0.0.1",
+  "description": "vue2版本的后台管理系统模版",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "dev": "vue-cli-service build --mode dev",
+    "qa": "vue-cli-service build --mode qa",
+    "prod": "vue-cli-service build --mode prod",
+    "lint": "vue-cli-service lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xufu523/vue2-man-system-template.git"
+  },
+  "author": "xufu",
+  "license": "ISC",
+  "dependencies": {
+    "ant-design-vue": "^1.6.5",
+    "axios": "^0.18.0",
+    "core-js": "^2.6.5",
+    "js-cookie": "^2.2.0",
+    "jsencrypt": "^3.0.0-rc.1",
+    "mockjs": "^1.0.0",
+    "moment": "^2.24.0",
+    "path-to-regexp": "^3.0.0",
+    "qs": "^6.7.0",
+    "uuid": "^3.3.3",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.10.0",
+    "@vue/cli-plugin-eslint": "^3.10.0",
+    "@vue/cli-service": "^3.10.0",
+    "@vue/eslint-config-airbnb": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
